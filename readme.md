@@ -12,9 +12,6 @@ Print the letter X (uppercase) with a blank space before and after the equal sig
 Obs.: don't forget the endline after all.
 |   | Samples Input | Samples Output |
 |---|---------------|----------------|
-|   | 10            |                |
-|   | 9             | X = 19         |
-|   | -10           |                |
-|   | 4             | X = -6         |
-|   | 15            |                |
-|   | -7            | X = -6         |
+| 10 | 9           | X = 19         |
+|  -10 | 4          | X = -6         |
+| 15  | -7          | X = -6         |
