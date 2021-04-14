@@ -1,6 +1,10 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int a, b;
+    cin >> a;
+    cin >> b;
+    cout << "SOMA = " << a+b<<endl;
     return 0;
 }
