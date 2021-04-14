@@ -7,3 +7,9 @@ The input file contains 2 floating points' values with one digit after the decim
 Output
 
 Print the message "MEDIA"(average in Portuguese) and the student's average according to the following example, with 5 digits after the decimal point and with a blank space before and after the equal signal.
+
+| Input Samples | Output Samples |
+|---------------|----------------|
+| 5.0    7.1    |  MEDIA = 27     |
+| 0.0     7.1   |  MEDIA = -300   |
+| 10.0    10.0  |  MEDIA = 0      |
