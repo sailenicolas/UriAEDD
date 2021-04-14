@@ -8,8 +8,8 @@ Output
 
 Print the message "PROD" and PROD according to the following example, with a blank space before and after the equal signal.
 
-| Input Samples | Output Samples |
-|---------------|----------------|
-| 3    9        |  PROD = 27     |
-| -30   10      |  PROD = -300   |
-| 0     9       |  PROD = 0      |
+| 		|Input Samples | Output Samples |
+|-------|--------|----------------|
+| 3    | 9        |  PROD = 27     |
+| -30  | 10      |  PROD = -300   |
+| 0    | 9       |  PROD = 0      |
