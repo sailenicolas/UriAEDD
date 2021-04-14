@@ -9,4 +9,9 @@ int main() {
      * Code your solution here
      * Escriba su solución aquí
      */
+    const double pi = 3.14159;
+    double a;
+    cin >>a;
+    printf("A=%.4f\n",pi*a*a);
+    return 0;
 }
