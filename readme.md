@@ -1,12 +1,13 @@
+# Age in Days
 Leer un entero, que corresponde a la edad de una persona (en días) e imprimirlo en años, meses y días, seguido del respectivo mensaje “ano(s)”, “mes(es)”, “dia(s)”.
 
 Nota: Para facilitar el cálculo, considere al año con 365 días y al mes con 30. En los casos de prueba nunca habrá una situacion que permita 12 meses y algunos días, como 360, 363 ó 364. Este es sólo un ejercicio para plantear un simple razonamiento matemático.
 
-#Entrada
+##Entrada
 
 La entrada consiste en un solo valor entero.
 
-#Salida
+##Salida
 
 Mostrar el resultado, como se muestra a continuación.
 
