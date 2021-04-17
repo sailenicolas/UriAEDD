@@ -1,15 +1,20 @@
+# Cálculo Simple
 
+En este problema, la tarea consiste en leer un código de un producto 1, el número de unidades del producto 1, el precio de una unidad de producto 1, el código de un producto 2, el número de unidades del producto 2 y el precio de una unidad de producto 2. Después de esto, calcular y mostrar la cantidad a pagar.
 
-Read two integer values. After this, calculate the product between them and store the result in a variable named PROD. Print the result like the example below. Do not forget to print the end of line after the result, otherwise you will receive “Presentation Error”.
-Input
+## Entrada
 
-The input file contains 2 integer numbers.
-Output
+El archivo de entrada contiene dos líneas de datos. En cada línea habrá 3 valores: Dos enteros y un valor flotante con 2 dígitos después del punto decimal.
 
-Print the message "PROD" and PROD according to the following example, with a blank space before and after the equal signal.
+## Salida
 
-| 		|Input Samples | Output Samples |
-|-------|--------|----------------|
-| 3    | 9        |  PROD = 27     |
-| -30  | 10      |  PROD = -300   |
-| 0    | 9       |  PROD = 0      |
+El archivo de salida debe ser un mensaje como en el siguiente ejemplo. Recuerde el espacio antes de ":" y antes del símbolo "R$". El valor debe ser presentado con 2 dígitos después del punto.
+
+Ejemplos de Entrada|Ejemplos de Salida||
+|---|---|---|
+12 1 5.30|
+16 2 5.10|VALOR A PAGAR: R$ 15.50
+13 2 15.30|
+161 4 5.20|VALOR A PAGAR: R$ 51.40
+1 1 15.10|
+2 1 15.10|VALOR A PAGAR: R$ 30.20
