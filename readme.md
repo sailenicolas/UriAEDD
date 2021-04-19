@@ -6,11 +6,11 @@ En una hora (60 minutos), el auto Y se separa una distancia de 30 kilómetros de
 
 Leer la distancia (en kilómetros) y calcular que tiempo le lleva (en minutos) al auto Y tomar esa distancia en relación con el otro auto.
 
-##Entrada
+## Entrada
 
 La entrada contiene 1 valor entero.
 
-##Salida
+## Salida
 
 Imprimir el tiempo necesario seguido del mensaje "minutos", tal como se muestra en el ejemplo.
 
