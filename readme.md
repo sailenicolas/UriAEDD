@@ -1,4 +1,4 @@
-
+# Distance
 
 Dos autos (X e Y) parten en la misma dirección. El auto X parte con una velocidad constante de 60 km/h y el auto Y parte con velocidad constante de 90 km/h.
 
@@ -6,11 +6,11 @@ En una hora (60 minutos), el auto Y se separa una distancia de 30 kilómetros de
 
 Leer la distancia (en kilómetros) y calcular que tiempo le lleva (en minutos) al auto Y tomar esa distancia en relación con el otro auto.
 
-#Entrada
+##Entrada
 
 La entrada contiene 1 valor entero.
 
-#Salida
+##Salida
 
 Imprimir el tiempo necesario seguido del mensaje "minutos", tal como se muestra en el ejemplo.
 
