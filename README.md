@@ -12,9 +12,11 @@ Problemas URI
 | 	Promedio 1|   [Problema1005](https://github.com/sailenicolas/UriAEDD/tree/Problema1005) | ☑️
 | 	Diferencia|   [Problema1007](https://github.com/sailenicolas/UriAEDD/tree/Problema1007) | ☑️
 | Salario |   [Problema1008](https://github.com/sailenicolas/UriAEDD/tree/Problema1008) | ☑️
-| Cálculo Simple |   [Problema1010](https://github.com/sailenicolas/UriAEDD/tree/Problema1010) | ❎
-| El Mayor |   [Problema1013](https://github.com/sailenicolas/UriAEDD/tree/Problema1013) |❎ 
-| Distancia Entre dos Puntos |   [Problema1015](https://github.com/sailenicolas/UriAEDD/tree/Problema1015) | ❎
-|  Distancia  |   [Problema1016](https://github.com/sailenicolas/UriAEDD/tree/Problema1016) | ❎
-|  Edad en Días  |   [Problema1020](https://github.com/sailenicolas/UriAEDD/tree/Problema1020) | ❎
+| Cálculo Simple |   [Problema1010](https://github.com/sailenicolas/UriAEDD/tree/Problema1010) | ☑️
+| El Mayor |   [Problema1013](https://github.com/sailenicolas/UriAEDD/tree/Problema1013) |☑️ 
+| Distancia Entre dos Puntos |   [Problema1015](https://github.com/sailenicolas/UriAEDD/tree/Problema1015) | ☑️ 
+|  Distancia  |   [Problema1016](https://github.com/sailenicolas/UriAEDD/tree/Problema1016) | ☑️
+|  Edad en Días  |   [Problema1020](https://github.com/sailenicolas/UriAEDD/tree/Problema1020) | ☑️
+
+❎
 
