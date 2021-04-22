@@ -9,5 +9,9 @@ int main() {
      * Code your solution here
      * Escriba su solución aquí
      */
-
+    string a;
+    double b,c;
+    cin >> a>>b>>c;
+    printf("TOTAL = R$ %.2f\n", b+(c*(0.15)));
+    return 0;
 }
