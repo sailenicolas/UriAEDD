@@ -9,6 +9,8 @@ int main() {
      * Code your solution here
      * Escriba su solución aquí
      */
-
+     double a,b;
+    cin >> a>>b;
+    printf("%.3f km/l\n", a/b);
     return 0;
 }
